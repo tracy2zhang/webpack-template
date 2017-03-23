@@ -1,0 +1,15 @@
+### WebStorm ###
+.idea_modules/
+.idea/
+
+### Node ###
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules/
+
+### Custom ###
+dist/
+*/**/.DS_Store
